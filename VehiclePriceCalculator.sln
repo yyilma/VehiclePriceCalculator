@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarAuction.Server", "CarAuction.Server\CarAuction.Server.csproj", "{9E208BDB-0CDE-4F14-8C8F-17C12D9D8D05}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "carauction.client", "carauction.client\carauction.client.esproj", "{289AC92C-ACFA-46CF-85C8-F38D75C5B0AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{FAC391E2-C4D4-4FF8-B64D-43863264412A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E208BDB-0CDE-4F14-8C8F-17C12D9D8D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E208BDB-0CDE-4F14-8C8F-17C12D9D8D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E208BDB-0CDE-4F14-8C8F-17C12D9D8D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E208BDB-0CDE-4F14-8C8F-17C12D9D8D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289AC92C-ACFA-46CF-85C8-F38D75C5B0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289AC92C-ACFA-46CF-85C8-F38D75C5B0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289AC92C-ACFA-46CF-85C8-F38D75C5B0AA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{289AC92C-ACFA-46CF-85C8-F38D75C5B0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289AC92C-ACFA-46CF-85C8-F38D75C5B0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289AC92C-ACFA-46CF-85C8-F38D75C5B0AA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FAC391E2-C4D4-4FF8-B64D-43863264412A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC391E2-C4D4-4FF8-B64D-43863264412A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC391E2-C4D4-4FF8-B64D-43863264412A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC391E2-C4D4-4FF8-B64D-43863264412A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FB00EA1-C9F8-4154-9FA4-B12EA7A7B860}
+	EndGlobalSection
+EndGlobal
