@@ -1,7 +1,5 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
-import Vehicle from './components/Vehicle.vue'
+import Vehicle from './components/VehiclePriceCalculator.vue'
 </script>
 
 <template>
