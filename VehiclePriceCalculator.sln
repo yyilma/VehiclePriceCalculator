@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "CarAuction.Server\Server.csproj", "{9E208BDB-0CDE-4F14-8C8F-17C12D9D8D05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "Server\Server.csproj", "{9E208BDB-0CDE-4F14-8C8F-17C12D9D8D05}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "webclient", "carauction.client\webclient.esproj", "{289AC92C-ACFA-46CF-85C8-F38D75C5B0AA}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "webclient", "webclient\webclient.esproj", "{289AC92C-ACFA-46CF-85C8-F38D75C5B0AA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{FAC391E2-C4D4-4FF8-B64D-43863264412A}"
 EndProject
